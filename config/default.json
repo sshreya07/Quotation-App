@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://shreya123:<shreya123>@quotewall.hgm8c.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"dgdsgdgdgs"
+}
